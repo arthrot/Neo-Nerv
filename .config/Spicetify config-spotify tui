@@ -1,0 +1,15 @@
+[Spotify]
+
+accent=ef5700
+accent-active=ef5700
+accent-inactive=ad48bd
+banner=ef5700
+border-active=ef5700
+border-inactive=ad48bd
+header=535353
+highlight=1a1a1a
+main=160400
+notification=4687d6
+notification-error=e22134
+subtext=8b5bff
+text=1ed760
